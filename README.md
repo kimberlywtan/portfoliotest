@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/tankiw/portfoliotest/main/profilepic/MLP_rainbow-parasol_550x550.jpg)
 
 <!-- Add your details -->
 
